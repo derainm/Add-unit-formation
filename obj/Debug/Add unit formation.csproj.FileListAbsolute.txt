@@ -1,0 +1,10 @@
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\bin\Debug\Add unit formation.exe.config
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\bin\Debug\Add unit formation.exe
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\bin\Debug\Add unit formation.pdb
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\obj\Debug\Add_unit_formation.Form1.resources
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\obj\Debug\Add_unit_formation.Properties.Resources.resources
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\obj\Debug\Add unit formation.csproj.GenerateResource.cache
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\obj\Debug\Add unit formation.exe
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\obj\Debug\Add unit formation.pdb
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\bin\Debug\Resource_hack\ResourceHacker.exe
+C:\Users\Beleive\source\repos\Add unit formation\Add unit formation\obj\Debug\Add unit formation.csprojAssemblyReference.cache
